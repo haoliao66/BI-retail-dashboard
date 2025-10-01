@@ -97,7 +97,7 @@ Interactive inventory report for parts and their relationships to brandmodels.
 - **Availabiltity** This section dynamically updates to display the current inventory status and stock levels for all parts relevanat to the brand/model selected in the table above.
 
 ### Monthly Dashboard
-<img width="1486" height="832" alt="491729732-60057db6-03a4-402d-b2f2-9fba19a412d3" src="https://github.com/user-attachments/assets/758e6cda-2f45-42de-a8c7-51f09c697c33" />
+<img width="1483" height="830" alt="491760035-bff71e9c-eaac-4b86-ba23-24a8031077a9" src="https://github.com/user-attachments/assets/bd91ad6a-f169-4150-a58a-37edf40418eb" />
 
  Month-to-month KPIs for operational reporting, created per user request.
 
