@@ -10,11 +10,11 @@ The project began with an initial stakeholder meeting involving the business own
 
 **Key Discovery Questions:**
 
-What are the most critical metrics you need to track in this dashboard?
+- What are the most critical metrics you need to track in this dashboard?
 
-Who is the primary user, and what specific business decisions should the report empower them to make?
+- Who is the primary user, and what specific business decisions should the report empower them to make?
 
-How are retail orders and item categories organized, and how is this structure reflected in the data schema?
+- How are retail orders and item categories organized, and how is this structure reflected in the data schema?
 
 **Key Findings & Business Objectives:**
 From the initial interview, a core business process was identified: individual SKU parts (e.g., bulbs, clips, rollers, tires) are assembled and sold as kits designed for different brand/models. The data schema successfully captures this many-to-many relationship (see Data Model section).
