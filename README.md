@@ -28,7 +28,7 @@ The dashboard evolved iteratively based on ongoing stakeholder feedback. Subsequ
 ## Data model 
 A review of the source database confirms the use of a **star schema**. For analytics purposes in Power BI, the following tables were selectively imported and joined:
 
-<img width="760" height="477" alt="image" src="https://github.com/user-attachments/assets/09fa5aee-086d-4143-914c-08316482c33d" />
+<img width="760" height="477" alt="491679176-09fa5aee-086d-4143-914c-08316482c33d" src="https://github.com/user-attachments/assets/997615bd-00fe-46ad-9501-f30ace68c204" />
 
  **Order Table (Fact Table)**:
 This is the central fact table containing transactional data. Key fields include:
@@ -53,8 +53,10 @@ Joined to the Order table via SKU ID. This dimension contains product master dat
  
 ##  Redacted View
 ### Sales Overview
-<img width="1495" height="833" alt="image" src="https://github.com/user-attachments/assets/ed49d2b2-f26f-4a18-a3bc-70171d1399bb" />
-<img width="1497" height="830" alt="image" src="https://github.com/user-attachments/assets/d09721cd-17d9-4aad-8f2a-96e7d681b040" />
+<img width="1495" height="833" alt="493555039-ed49d2b2-f26f-4a18-a3bc-70171d1399bb" src="https://github.com/user-attachments/assets/75b42e3e-a47b-4195-87bb-8920a6a33290" />
+
+<img width="1497" height="830" alt="491728678-d09721cd-17d9-4aad-8f2a-96e7d681b040" src="https://github.com/user-attachments/assets/732956a6-126d-4010-b24b-f8493e0a937d" />
+
 
 This page provides a high-level overview of the most important KPIs and sales trends for at-a-glance performance monitoring.
 
@@ -70,9 +72,9 @@ This page provides a high-level overview of the most important KPIs and sales tr
 
 
 ### Brands and Types
-<img width="1488" height="828" alt="image" src="https://github.com/user-attachments/assets/efe80af7-3e60-4245-b95f-d0d3b639d6af" />
+<img width="1488" height="828" alt="493555879-efe80af7-3e60-4245-b95f-d0d3b639d6af" src="https://github.com/user-attachments/assets/88510889-92d6-4298-8600-87abe2b3cbb0" />
 
-<img width="1491" height="832" alt="image" src="https://github.com/user-attachments/assets/a0abb0b8-aab0-4d5d-97bc-bbac20685b53" />
+<img width="1491" height="832" alt="491758472-a0abb0b8-aab0-4d5d-97bc-bbac20685b53" src="https://github.com/user-attachments/assets/fb5f6fca-e417-48da-a34b-f9996fa0a495" />
 
 This page is designed to visualize the relationships between brand/models and individual SKU parts, enabling users to track their sales performance within specified time periods.
 
@@ -84,7 +86,7 @@ This page is designed to visualize the relationships between brand/models and in
 
 
 ### Inventory
-<img width="1486" height="832" alt="image" src="https://github.com/user-attachments/assets/60057db6-03a4-402d-b2f2-9fba19a412d3" />
+<img width="1486" height="832" alt="491729732-60057db6-03a4-402d-b2f2-9fba19a412d3" src="https://github.com/user-attachments/assets/2ae90a5c-54dd-444d-b3c9-f193b9029924" />
 
 Interactive inventory report for parts and their relationships to brandmodels.
 
@@ -95,7 +97,7 @@ Interactive inventory report for parts and their relationships to brandmodels.
 - **Availabiltity** This section dynamically updates to display the current inventory status and stock levels for all parts relevanat to the brand/model selected in the table above.
 
 ### Monthly Dashboard
-<img width="1483" height="830" alt="image" src="https://github.com/user-attachments/assets/bff71e9c-eaac-4b86-ba23-24a8031077a9" />
+<img width="1486" height="832" alt="491729732-60057db6-03a4-402d-b2f2-9fba19a412d3" src="https://github.com/user-attachments/assets/758e6cda-2f45-42de-a8c7-51f09c697c33" />
 
  Month-to-month KPIs for operational reporting, created per user request.
 
